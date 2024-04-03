@@ -18,7 +18,7 @@
 
 * ✉️  You can contact me at:
 <a href = "https://www.linkedin.com/in/kanya-bhatt-54006b223/"><br/>
-<img src = "[https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-dhkaf9ri.png](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png)" height = "40px" width="60px"/>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" height = "40px" width="60px"/>
 </a>
 
 ## Thanks For Visiting!
