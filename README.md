@@ -21,7 +21,7 @@
 <img src = "https://cdn.pixabay.com/photo/2017/11/10/05/05/linkedin-2935407_1280.png" height = "40px" width="40px" style = "padding-left: 50"/>
 </a>
 <a href = "https://www.linkedin.com/in/kanya-bhatt-54006b223/"><br/>
-<img src = "https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" height = "40px" width="40px" style = "padding-left: '20px'"/>
+<img src = "https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" height = "40px" width="40px"/>
 </a>
 
 ## Thanks For Visiting!
