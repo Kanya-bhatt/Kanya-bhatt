@@ -17,6 +17,6 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=Kanya-bhatt&color=FAC151)
 
 * ✉️  You can contact me at:
-<a href = "https://www.linkedin.com/in/kanya-bhatt-54006b223/"><img src = "https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-dhkaf9ri.png"/></a>
+<a href = "https://www.linkedin.com/in/kanya-bhatt-54006b223/"><img src = "https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-dhkaf9ri.png" height = "30px" width="30px"/></a>
 
 ## Thanks For Visiting!
