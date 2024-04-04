@@ -32,15 +32,19 @@
 
 <a href="https://github.com/Kanya-bhatt" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanya-bhatt&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 -->
-# 💫 About Me:
-* 👨‍💻 Pre-Final Year Student at DDU(Dharmsinh Desai University).<br><br>* 🔭 I’m currently working on ML.<br><br>* 👯 I’m looking to collaborate on all types of Projects<br><br>* 💬 Would Like to talk about Python, Machine Learning, Full Stack Development<br><br>* 🌱 I’m currently learning Cloud computing, Machine Learning, Java<br><br>* 📫 Reach me at: bkkanya123@gmail.com
+
+* 👨‍💻 Pre-Final Year Student at DDU(Dharmsinh Desai University).
+* 🔭 I’m currently working on ML.
+* 👯 I’m looking to collaborate on all types of Projects
+* 💬 Would Like to talk about Python, Machine Learning, Full Stack Development
+* 🌱 I’m currently learning Cloud computing, Machine Learning, Java
+*  📫 Reach me at: bkkanya123@gmail.com
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Kanya-bhatt&color=FAC151)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.github.com/Kanya-bhatt) 
+### You can contact me at:
 
-[![Leetcode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=linkedin&logoColor=white)](https://leetcode.com/kanya_bhatt/) 
+<p align="left"> <a href="https://www.github.com/Kanya-bhatt" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/kanyabhatt" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/kanya-bhatt-54006b223/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 # 💻 Tech Stack:
 <p align="left">
