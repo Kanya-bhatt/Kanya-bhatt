@@ -35,9 +35,12 @@
 # 💫 About Me:
 * 👨‍💻 Pre-Final Year Student at DDU(Dharmsinh Desai University).<br><br>* 🔭 I’m currently working on ML.<br><br>* 👯 I’m looking to collaborate on all types of Projects<br><br>* 💬 Would Like to talk about Python, Machine Learning, Full Stack Development<br><br>* 🌱 I’m currently learning Cloud computing, Machine Learning, Java<br><br>* 📫 Reach me at: bkkanya123@gmail.com
 
+![GitHub Views](https://komarev.com/ghpvc/?username=Kanya-bhatt&color=FAC151)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.github.com/Kanya-bhatt) 
+
+[![Leetcode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=linkedin&logoColor=white)](https://leetcode.com/kanya_bhatt/) 
 
 # 💻 Tech Stack:
 <p align="left">
@@ -54,8 +57,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=Kanya-bhatt&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 ## Thanks For Visiting!
